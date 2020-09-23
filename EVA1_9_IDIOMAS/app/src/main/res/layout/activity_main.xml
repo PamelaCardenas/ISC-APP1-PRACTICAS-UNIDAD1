@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RadioGroup
+        android:id="@+id/rdGrpIdioma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdBtnEsp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Español" />
+
+        <RadioButton
+            android:id="@+id/rdBtnEn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Inglés" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Nombre:" />
+
+        <EditText
+            android:id="@+id/txtNombreHint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="Ingrese su nombre"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtApe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Apellido:" />
+
+        <EditText
+            android:id="@+id/txtApeHint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="Ingrese su apellido"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txtGen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Género" />
+
+        <RadioButton
+            android:id="@+id/rdBtnHom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hombre" />
+
+        <RadioButton
+            android:id="@+id/rdBtnMuj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mujer" />
+
+        <RadioButton
+            android:id="@+id/rdBtnNoHay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prefiero no decirlo" />
+    </RadioGroup>
+</LinearLayout>

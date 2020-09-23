@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EVA1_9_IDIOMAS</string>
+
+    <string name="btn_es_español">Español</string>
+    <string name="btn_es_ingles">Inglés</string>
+    <string name="txt_es_nombre">Nombre:</string>
+    <string name="txt_es_apellido">Apellidos:</string>
+    <string name="hint_es_nombre">Introduce tu nombre</string>
+    <string name="hint_es_apellido">Introduce tu apellido</string>
+    <string name="txt_es_genero">Género:</string>
+    <string name="btn_es_hombre">Hombre</string>
+    <string name="btn_es_mujer">Mujer</string>
+    <string name="btn_es_nohay">Prefiero no decirlo</string>
+
+    <string name="btn_en_español">Spanish</string>
+    <string name="btn_en_ingles">English</string>
+    <string name="txt_en_nombre">First name:</string>
+    <string name="txt_en_apellido">Last name:</string>
+    <string name="hint_en_nombre">Your first name</string>
+    <string name="hint_en_apellido">Your last name</string>
+    <string name="txt_en_genero">Gender:</string>
+    <string name="btn_en_hombre">Man</string>
+    <string name="btn_en_mujer">Woman</string>
+    <string name="btn_en_nohay">I prefer not to say</string>
+</resources>
