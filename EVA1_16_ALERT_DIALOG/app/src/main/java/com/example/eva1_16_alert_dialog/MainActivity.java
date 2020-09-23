@@ -12,6 +12,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+* PRACTICA 16 ALERT DIALOG
+* MUESTRA UN CUADRO DE TEXTO AL USUARIO AL PRESIONAR LOS BOTONES EN EL LAYOUT
+* UTILIZANDO EVENTOS */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

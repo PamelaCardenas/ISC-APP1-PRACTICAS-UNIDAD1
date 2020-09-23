@@ -9,6 +9,10 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 13 LISTVIEW
+ * MOSTRAR EN UN LISTA LOS DATOS DE UN ARREGLO */
+
 public class MainActivity extends AppCompatActivity {
 
     ListView lstVwDatos;

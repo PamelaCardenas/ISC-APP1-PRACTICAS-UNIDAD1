@@ -4,6 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 1 HOLA MUNDO
+ * MUESTRA EL TEXT VIEW EN EL LAYOUT CON LA DESCRIPCION DE HOLA MUNDO */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

@@ -5,6 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 14 CLIMA
+ * MUESTRA LA INTERFAZ DE UNA APLICACION QUE MUESTRA EL CLIMA VINCULANDO LOS COMPONENTES*/
+
 public class MainActivity extends AppCompatActivity {
     Weather[] weathers = {
             new Weather("Chihuahua",20,"Lluvia ligera",R.drawable.light_rain),

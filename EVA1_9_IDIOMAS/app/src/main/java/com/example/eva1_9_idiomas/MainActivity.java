@@ -7,6 +7,10 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 9 IDIOMAS
+ * CAMBIA EL IDIOMA DE ESPAÑOL A INGLES Y VICEVERSA DEPENDIENDO DE LA OPCION SELECCIONADA EN EL RADIOGROUP */
+
 public class MainActivity extends AppCompatActivity {
 
     RadioGroup rdGrpIdioma;

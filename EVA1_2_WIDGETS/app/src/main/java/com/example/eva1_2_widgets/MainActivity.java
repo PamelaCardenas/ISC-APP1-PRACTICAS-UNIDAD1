@@ -4,6 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 2 WIDGETS
+ * MUESTRA EL USO DE WIDGETS, COMO TEXT VIEW, BUTTONS, EDIT TEXT... */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

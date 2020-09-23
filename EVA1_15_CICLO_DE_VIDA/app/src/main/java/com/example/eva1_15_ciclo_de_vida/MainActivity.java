@@ -5,6 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 15 CICLO DE VIDA
+ * MUESTRA MEDIANTE TOAST LAS DIFERENTES ETAPAS POR LAS QUE PASA UNA APLICACION */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

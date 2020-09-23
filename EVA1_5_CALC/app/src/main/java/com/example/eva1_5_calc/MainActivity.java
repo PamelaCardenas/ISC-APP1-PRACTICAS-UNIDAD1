@@ -5,6 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 5 CALCULADORA
+ * COLOCACION DE COMPONENTES PARA DISEÑAR UNA CALCULADORA Y LA VINCULACION DE ELLOS  */
+
 public class MainActivity extends AppCompatActivity {
 
     Button dosnd, btnpi, btne, btnc, borrar, btnx2, btnunosobrex, btnxabsoluta, btnexp, btnmod, btnraizx, btnabrirParen, btncerrarParen, btnnFact, btnentre;

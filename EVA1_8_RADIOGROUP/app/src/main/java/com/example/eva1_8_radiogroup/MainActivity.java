@@ -7,6 +7,10 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 8 RADIOGROUP
+ * COLOCAR UN RADIOGROUP Y LANZAR UN TOAST POR CADA VEZ QUE SE SELECCIONA UNA NUEVA OPCION */
+
 public class MainActivity extends AppCompatActivity {
 
     RadioGroup rdGrpComida;

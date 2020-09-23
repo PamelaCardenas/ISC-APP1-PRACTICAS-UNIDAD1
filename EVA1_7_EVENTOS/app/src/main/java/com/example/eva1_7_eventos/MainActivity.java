@@ -9,6 +9,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 7 EVENTOS
+ * CREACION DE DIFERENTES EVENTOS PARA CADA BOTON Y MOSTRAR UN TOAST AL SELECCIONARLOS */
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     Button btnIntListener;

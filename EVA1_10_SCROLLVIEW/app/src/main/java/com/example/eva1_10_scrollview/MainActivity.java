@@ -5,6 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 10 SCROLLVIEW
+ * MUESTRA UN TEXTO EN PANTALLA EN DONDE SE PUEDE DESLIZAR PARA MOSTRAR EL TEXTO COMPLETO CON UN SCROLLVIEW */
+
 public class MainActivity extends AppCompatActivity {
 
     TextView txtViewTexto;

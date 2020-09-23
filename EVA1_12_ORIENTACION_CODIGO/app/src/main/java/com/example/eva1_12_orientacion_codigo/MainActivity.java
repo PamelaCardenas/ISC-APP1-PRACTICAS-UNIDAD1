@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 12 ORIENTACION CODIGO
+ * DEPENDIENDO DE LA ORIENTACION  DE LA PANTALLA AL PRESIONAR EL BOTON MUESTRA EL TOAST CON EL MENSAJE CORRESPONDIENTE */
+
 public class MainActivity extends AppCompatActivity
 implements View.OnClickListener {
     /*android:screenOrientation="portrait"

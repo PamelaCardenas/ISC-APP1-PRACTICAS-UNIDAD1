@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+/*KARLA PAMELA CARDENAS LEYVA 18550338
+ * PRACTICA 6 RECURSOS
+ * UTILIZACION DE RECURSOS COMO LA COLOCACION DE UNA IMAGEN */
+
 public class MainActivity extends AppCompatActivity {
 
     ImageView imagevwFlor;
